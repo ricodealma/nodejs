@@ -1,6 +1,6 @@
 import mongoose from "mongoose"
 
-mongoose.connect('mongodb+srv://fael9339:gCxWpHbY9E2TPGPU@cluster0.wzqzlye.mongodb.net/test');
+mongoose.connect('#seu-id-mongoose');
 
 let db = mongoose.connection;
 
