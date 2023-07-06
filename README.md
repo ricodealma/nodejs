@@ -13,7 +13,7 @@ Olá! Bem-vindo ao meu projeto de estudos com a Alura. Este é um projeto práti
 ## 📂 Estrutura do Projeto
 
 O projeto está organizado da seguinte maneira:
-
+```
 ├── config
 │ └── dbConnect.js
 ├── controllers
@@ -29,7 +29,7 @@ O projeto está organizado da seguinte maneira:
 │ ├── editorasRoutes.js
 │ └── livrosRoutes.js
 └── index.js
-
+```
 
 ### Arquivo `dbConnect.js`
 
